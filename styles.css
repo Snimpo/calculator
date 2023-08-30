@@ -1,0 +1,21 @@
+.contenedor {
+  background-color: #c24747;
+  margin: 30% auto; /* 15% from the top and centered */
+  padding: 20px;
+  display: grid;
+  border: 12px solid #080707;
+  width: 250px; /* Could be more or less, depending on screen size */
+}
+.buttons {
+  background-color: blue;
+  margin: auto;
+  display: grid;
+  align-items: center;
+}
+
+button {
+  background-color: lightblue;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 12px;
+}
